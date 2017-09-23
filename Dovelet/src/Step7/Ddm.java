@@ -30,6 +30,6 @@ public class Ddm {
 		} else {
 			System.out.println("no");
 		}
-		
+	
 	}
 }

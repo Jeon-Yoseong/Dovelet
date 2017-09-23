@@ -42,5 +42,4 @@ public class Bsearch {
 		}
 		return -1;
 	}
-
 }
